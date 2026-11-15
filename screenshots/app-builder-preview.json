@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BREVILO",
+      "hasCanvas": false,
+      "bodyTextLen": 311,
+      "bodyTextHash": "0618cfc9bcf4e204ccd695596c36b282c656d6e95c663573fbdb6d4afc93e8d3",
+      "bodyTextPrefix": "BREVILO A quieter place to think, code, and read. BREVILO keeps ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BREVILO",
+      "hasCanvas": false,
+      "bodyTextLen": 139,
+      "bodyTextHash": "58dca14bbb063bd70e23fcb2fd9674d6026ee8f7d42ae519dfa6201e6197d07d",
+      "bodyTextPrefix": "BREVILO Sign in Use Google, X, or email. Continue with Google Co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
