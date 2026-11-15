@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="BREVILO">
+  <rect width="32" height="32" rx="8" fill="#070A14"/>
+  <rect x="7.2" y="6" width="4.6" height="20" rx="2.3" fill="#E8EEFF"/>
+  <path fill="#6D4DFF" d="M11.2 6.4h5.2c2.9 0 4.8 1.7 4.8 4.1s-1.9 4.1-4.8 4.1h-5.2z"/>
+  <path fill="#2EB6FF" d="M11.2 16.2h6.2c3.2 0 5.4 1.9 5.4 4.6s-2.2 4.8-5.4 4.8h-6.2z"/>
+</svg>
